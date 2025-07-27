@@ -42,4 +42,4 @@ Multi-Solutions-Oriented IT Specialist | Harvard Certified Full Stack Developer 
 
 📌 How to Use
 
-Download or open the Stack Overflow Survey Dashboard.pdf to explore insights from the survey. This report is intended for data enthusiasts, developers, hiring managers, and educators seeking to understand developer trends and behavior.
+Download or open the Stack Overflow Survey Dashboard.pdf to explore insights from the survey. This report is intended for data enthusiasts, developers, hiring managers, and educators seeking to understand developer trends and behavior, you can also download and view the Capstone Project Final Video to view the final presentation. Oliver Onyekachi Odo
